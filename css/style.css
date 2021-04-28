@@ -32,7 +32,7 @@ a {
 }
 
 .hero {
-  background-image: url('./img/hero.jpg');
+  background-image: url('../img/hero.jpg');
   padding: 110px 0 120px 0;
   background-size: cover;
   background-position: right center;
