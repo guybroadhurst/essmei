@@ -24,7 +24,7 @@ This was the fifth project on the [Superhi Foundation](https://superhi.com/cours
 * jQuery v3.5.1
 
 ## Demo
-[Live Demo](guybroadhurst.github.io/essmei/)
+[Live Demo](http://essmei-1100.superhi.com/)
 
 ## Features
 List of features:
